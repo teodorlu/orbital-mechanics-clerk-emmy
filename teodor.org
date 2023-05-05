@@ -1,0 +1,14 @@
+#+title: orbital-mechanics-intro -- Teodor notes
+
+* 2023-05-05
+** what
+CLerk, clojure, Emmy
+Visualizations of planetary object movement
+Sam's clerk viewer repo
+** who
+clojure-norway meetup
+cjohnasen
+Sindre, Oddmund, Julian, Neno, Ole Jacob, Eilef, Finn
+** limits of my knowledge
+clojure -> cjohnasen
+planetary dynamics -> finn (RK4), Sam Ritchie (lagrangian mechanics)
