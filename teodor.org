@@ -32,7 +32,7 @@ Teodor mening: Emmy og Clerk er så /sykt bra greier/ at det burde vært obligat
 
 Men da må vi drive litt Clojure-adopsjon :)
 ** what
-CLerk, clojure, Emmy
+Clerk, clojure, Emmy
 Visualizations of planetary object movement
 Sam's clerk viewer repo
 ** who
