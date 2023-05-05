@@ -17,3 +17,17 @@ planetary dynamics -> finn (RK4), Sam Ritchie (lagrangian mechanics)
 Målgruppe: noen som er helt ferske i Clojure.
 
 17-18: Simulating orbital mechanics with two bodies using Newtonian Mechanics.
+Orbit visualization with [mentat-collective/Clerk-Utils]
+
+Why isn't this good enough?
+Because we don't have energy conservation.
+Because we naively step forward when "integrating" force equilibrium into movement, we create or destroy energy.
+We can avoid this with RK4 (ask finn to explain)
+
+18-19 Introduction to Lagrangian mechanics -- energy stability.
+
+1. Energy potential -- kinetic and "the other one"
+2. Differentiation with respect to something
+3. equations of motion. Analytical solution possible?
+
+Ideally: ask Sam Ritchie to review, and possibly show up.
