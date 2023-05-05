@@ -1,6 +1,30 @@
 #+title: orbital-mechanics-intro -- Teodor notes
 
 * 2023-05-05
+** pitch
+learning mindset, hard stuff.
+Courage to face what we don't know.
+David and goliath.
+
+Asking for help.
+
+1. Hvem kan analytisk Lagrange-mekanikk?
+2. Hvem kan Clojure?
+3. Hvem er ikke programmerere engang?
+
+Jeg ønsker at vi hjelper hverandre!
+
+Teodor selv-evaluering:
+
+| tema              | selvrapportert kompetanse |
+|-------------------+---------------------------|
+| clojure           | 3/5                       |
+| lagrange-mekanikk | 2/5                       |
+| Newton-mekanikk   | 5/5                       |
+| Astrodynamikk     | 2/5                       |
+
+"på hvilken skala?"
+På den skalaen som gir mening for meg når jeg skal vurdere hva jeg ønsker å lære.
 ** what
 CLerk, clojure, Emmy
 Visualizations of planetary object movement
