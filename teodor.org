@@ -12,3 +12,8 @@ Sindre, Oddmund, Julian, Neno, Ole Jacob, Eilef, Finn
 ** limits of my knowledge
 clojure -> cjohnasen
 planetary dynamics -> finn (RK4), Sam Ritchie (lagrangian mechanics)
+** utkast til agenda
+16-17: introduksjon til Clojure med Clerk.
+Målgruppe: noen som er helt ferske i Clojure.
+
+17-18: Simulating orbital mechanics with two bodies using Newtonian Mechanics.
