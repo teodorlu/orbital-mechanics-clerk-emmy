@@ -62,6 +62,8 @@ We can avoid this with RK4 (ask finn to explain)
 
 Ideally: ask Sam Ritchie to review, and possibly show up.
 ** Choose your own adventure
+Her er /oppgaver/ man kan velge å gå løs på når felles-opplegget er ferdig.
+
 1. Lagre planetbaner i Datomic, visualiser grafisk (x, y) og i tabellform med Clerk
 2. Skriv din egen Clerk-viewer (se Clerk-Utils)
 3. Simulér en pendel som går fram og tilbake med Lagrange-mekanikk
