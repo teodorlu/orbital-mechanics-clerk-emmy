@@ -1,7 +1,7 @@
 #+title: orbital-mechanics-intro -- Teodor notes
 
 * 2023-05-05
-** pitch
+** intro: la oss lære sammen
 learning mindset, hard stuff.
 Courage to face what we don't know.
 David and goliath.
@@ -25,6 +25,10 @@ Teodor selv-evaluering:
 
 "på hvilken skala?"
 På den skalaen som gir mening for meg når jeg skal vurdere hva jeg ønsker å lære.
+
+Sitere Sam, "jeg ønsker at folk skal kunne lære disse greiene!"
+
+Teodor mening: Emmy og Clerk er så /sykt bra greier/ at det burde vært obligatorsk pensum for de som studerer på Konstruksjonsteknikk på NTNU.
 ** what
 CLerk, clojure, Emmy
 Visualizations of planetary object movement
