@@ -29,6 +29,8 @@ På den skalaen som gir mening for meg når jeg skal vurdere hva jeg ønsker å 
 Sitere Sam, "jeg ønsker at folk skal kunne lære disse greiene!"
 
 Teodor mening: Emmy og Clerk er så /sykt bra greier/ at det burde vært obligatorsk pensum for de som studerer på Konstruksjonsteknikk på NTNU.
+
+Men da må vi drive litt Clojure-adopsjon :)
 ** what
 CLerk, clojure, Emmy
 Visualizations of planetary object movement
