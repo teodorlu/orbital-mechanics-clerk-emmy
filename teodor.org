@@ -61,3 +61,9 @@ We can avoid this with RK4 (ask finn to explain)
 3. equations of motion. Analytical solution possible?
 
 Ideally: ask Sam Ritchie to review, and possibly show up.
+** Choose your own adventure
+1. Lagre planetbaner i Datomic, visualiser grafisk (x, y) og i tabellform med Clerk
+2. Skriv din egen Clerk-viewer (se Clerk-Utils)
+3. Simulér en pendel som går fram og tilbake med Lagrange-mekanikk
+4. Bruk Clerk-Utils til å legge på interaktiv kontroll av simuleringen din
+5. Lag din egen Clerk-hage og sett opp deploy til clerk.garden
